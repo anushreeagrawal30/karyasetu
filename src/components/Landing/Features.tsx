@@ -117,7 +117,7 @@ export const Features: React.FC = () => {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="group text-center p-8 border-2 border-green-200 rounded-2xl bg-gradient-to-br from-green-50 to-green-100/50 hover:border-green-300 hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
               <div className="w-16 h-16 bg-gradient-to-br from-green-400 to-green-600 rounded-2xl mx-auto mb-4 flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform duration-300">
-                <img src="/src/assets/images/sanitation.webp" alt="Sanitation" className="w-8 h-8 filter brightness-0 invert" />
+                <img src="/src/assets/images/sanii.jpg" alt="Sanitation" className="w-8 h-8 filter brightness-0 invert" />
               </div>
               <h4 className="font-bold text-gray-900 text-lg mb-2">Sanitation</h4>
               <p className="text-sm text-gray-600">Green Category</p>
@@ -126,7 +126,7 @@ export const Features: React.FC = () => {
 
             <div className="group text-center p-8 border-2 border-gray-200 rounded-2xl bg-gradient-to-br from-gray-50 to-gray-100/50 hover:border-gray-300 hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
               <div className="w-16 h-16 bg-gradient-to-br from-gray-400 to-gray-600 rounded-2xl mx-auto mb-4 flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform duration-300">
-                <img src="/src/assets/images/roadd.htm" alt="Roads" className="w-8 h-8 filter brightness-0 invert" />
+                <img src="/src/assets/images/roaddd.jpg" alt="Roads" className="w-8 h-8 filter brightness-0 invert" />
               </div>
               <h4 className="font-bold text-gray-900 text-lg mb-2">Roads</h4>
               <p className="text-sm text-gray-600">Grey Category</p>
